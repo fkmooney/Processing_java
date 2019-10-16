@@ -1,0 +1,6 @@
+export frames
+put frames in folder by themselves
+use movie maker tool in Processing interface to create movie from frames
+use online gif converter to make gif from movie
+
+https://ezgif.com
